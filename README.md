@@ -28,3 +28,8 @@
 3. Click "Show Saved Cafes" to view your favorites.
 
 ---
+
+## Live Preview  
+[View Website](https://cafe-finder-seven.vercel.app)  
+
+---
